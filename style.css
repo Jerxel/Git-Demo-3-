@@ -1,0 +1,20 @@
+
+/* Styles for hello world and hi */
+
+h1 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #2b6cb0; /* blue */
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+	color: #e53e3e; /* red */
+	text-align: center;
+}
+
+/* Optional: make page background subtle */
+body {
+	background-color: #f7fafc;
+}
+
